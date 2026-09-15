@@ -1,0 +1,10 @@
+1789401983799:stop
+1789403804439:time set 0
+1789403810810:time set 1
+1789405838067:scoreboard objectives add vida health
+1789405844320:scoreboard objectives setdisplay list vida
+1789405857009:op flitzfa
+1789441405063:op FarinkFX
+1789441418035:say cuando dejen de jugar tiren un /stop
+1789441420210:say awoo
+1789441427257:op milepro

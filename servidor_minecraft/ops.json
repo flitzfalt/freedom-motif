@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "38698e13-203f-31b9-b416-ebb1e0c31700",
+    "name": "FarinkFX",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fd3b369e-d809-3458-9a1d-5ff01224bfce",
+    "name": "flitzfa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "52ed9035-d9a5-339b-b93c-4790e0c4eef5",
+    "name": "milepro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

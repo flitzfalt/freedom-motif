@@ -1,0 +1,95 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:diorite": 1,
+      "minecraft:dirt": 20,
+      "minecraft:stick": 2,
+      "minecraft:cobblestone": 61,
+      "minecraft:leather": 2,
+      "minecraft:oak_sapling": 4,
+      "minecraft:beef": 1,
+      "minecraft:raw_iron": 7,
+      "minecraft:leaf_litter": 288,
+      "minecraft:coal": 6,
+      "minecraft:string": 1,
+      "minecraft:oak_log": 27,
+      "minecraft:oak_fence": 1,
+      "minecraft:sand": 5,
+      "minecraft:wheat_seeds": 2
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 25,
+      "minecraft:sand": 4,
+      "minecraft:stone_sword": 3,
+      "minecraft:leaf_litter": 106,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 3,
+      "minecraft:oak_planks": 11,
+      "minecraft:oak_sapling": 2,
+      "minecraft:torch": 8,
+      "minecraft:stone_pickaxe": 77,
+      "minecraft:dirt": 14,
+      "minecraft:cobblestone": 25
+    },
+    "minecraft:killed_by": {
+      "minecraft:creeper": 1,
+      "minecraft:cave_spider": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 11,
+      "minecraft:time_since_rest": 42217,
+      "minecraft:walk_one_cm": 107138,
+      "minecraft:walk_under_water_one_cm": 1449,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 441,
+      "minecraft:play_time": 95976,
+      "minecraft:damage_dealt": 191,
+      "minecraft:jump": 588,
+      "minecraft:time_since_death": 42197,
+      "minecraft:drop": 89,
+      "minecraft:sprint_one_cm": 64558,
+      "minecraft:fall_one_cm": 15255,
+      "minecraft:total_world_time": 95976,
+      "minecraft:swim_one_cm": 476,
+      "minecraft:fly_one_cm": 99032,
+      "minecraft:walk_on_water_one_cm": 2321,
+      "minecraft:crouch_one_cm": 10764,
+      "minecraft:sneak_time": 3635,
+      "minecraft:deaths": 2
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 1
+    },
+    "minecraft:mined": {
+      "minecraft:bush": 1,
+      "minecraft:dirt": 10,
+      "minecraft:diorite": 1,
+      "minecraft:coal_ore": 6,
+      "minecraft:grass_block": 10,
+      "minecraft:oak_fence": 2,
+      "minecraft:cobweb": 1,
+      "minecraft:short_grass": 11,
+      "minecraft:sand": 5,
+      "minecraft:oak_leaves": 6,
+      "minecraft:leaf_litter": 72,
+      "minecraft:oak_log": 27,
+      "minecraft:iron_ore": 7,
+      "minecraft:stone": 61
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 1,
+      "minecraft:leaf_litter": 122
+    },
+    "minecraft:crafted": {
+      "minecraft:torch": 12,
+      "minecraft:stone_sword": 1,
+      "minecraft:stick": 8,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 24,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4903
+}
