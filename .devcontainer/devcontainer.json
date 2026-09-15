@@ -1,6 +1,6 @@
 {
   "name": "MSX Server",
-  "postStartCommand": "nohup python3 msx.py > msx.log 2>&1 &",
+  "postAttachCommand": "bash -c 'nohup python3 msx.py > msx.log 2>&1 &'",
   "forwardPorts": [8080],
   "portsAttributes": {
     "8080": {
